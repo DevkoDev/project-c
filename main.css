@@ -21,16 +21,16 @@
   height: 30%;
   animation: scroll 8s linear infinite;
 }
-@media only screen and (max-width: 819px) {
+.Background-text {
+  font-size:40px;
+ }
+@media only screen and (min-width: 768px) {
   .Background-text {
-   font-size:65px;
+   font-size:80px;
   }
 } 
-@media only screen and (min-width: 820px) {
-  .Background-text{
-    font-size: 120px;
-  }
-}
+
+
 @keyframes scroll {
   0% {
     top: 100%;
