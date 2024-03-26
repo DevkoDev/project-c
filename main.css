@@ -23,12 +23,12 @@
 }
 @media only screen and (max-width: 819px) {
   .Background-text {
-   font-size:80px;
+   font-size:65px;
   }
 } 
 @media only screen and (min-width: 820px) {
   .Background-text{
-    font-size: 140px;
+    font-size: 120px;
   }
 }
 @keyframes scroll {
